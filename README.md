@@ -1,5 +1,7 @@
 # NanoTekSpice
 
+![Demo](docs/demo.gif)
+
 ## Introduction
 Hello and welcome to the **NanoTekSpice** project.
 This project was developed by **Gabin Wilson** and **Léo Batilliot** as part of our second year at Epitech.
